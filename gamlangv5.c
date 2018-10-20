@@ -2,8 +2,6 @@
     gamlang compiler v5 by falkman
     Last revision: October 30, 2009
     
-    Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-    
     Todo:
         Optimizations for the call or inlining of addvar.
         

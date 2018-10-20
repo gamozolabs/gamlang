@@ -2,8 +2,6 @@
     gamlang compiler v2 by falkman
     Last revision: October 25, 2009
     
-    Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-    
     Todo:
         Add return values to function prototypes.
 */

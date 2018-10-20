@@ -1,9 +1,7 @@
 /*
     gamlang compiler v6 by falkman
     Last revision: November 05, 2009
-    
-    Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-    
+
     Todo:
         Optimizations for the call or inlining of addvar.
         Optimize the jump feature to use short jumps.

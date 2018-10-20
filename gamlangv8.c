@@ -3,8 +3,6 @@
     Last revision: November 19, 2009
     *** THIS RELEASE IS JUST A SNAPSHOT BEFORE THE NEW VARIABLE SYSTEM IS IMPLEMENTED ***
     
-    Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-    
     Todo:
         Optimizations for the call or inlining of addvar.
         Optimize the jump feature to use short jumps.

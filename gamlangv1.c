@@ -2,8 +2,6 @@
 	gamlang compiler v1 by falkman
 	Last revision: October 24, 2009
 	
-	Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
-	
 	Todo:
 		Add post-run function parsing to check for possible errors.
 		Add param passing structure for handing to functions.
