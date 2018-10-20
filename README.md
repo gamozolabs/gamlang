@@ -5,7 +5,15 @@ This aims to make use of the useful, but mostly unknown opcodes in 386 systems.
 It is aimed to make osdev much easier with a variety of highly optimised functions for adding to the GDT, IDT, and IVT.
 There also will be built in functions to switch from protected mode to real mode.
 
+# Documentation
+
 [Documentation](docu/index.md)
+
+# Build/usage
+
+`make`
+
+Then you can use `./gamlang` which will compile `test.gamlang` to `kernel.bin`
 	
 # Progress
 
