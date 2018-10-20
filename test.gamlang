@@ -1,0 +1,6 @@
+initscr();
+storeint($var2, 1);
+@jmp;
+puthex($var2);
+addint($var2, 1);
+ifnequ($var2, 20, @jmp);
