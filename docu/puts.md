@@ -1,25 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-<title>Gamlang documentation - puts()</title>
-</head>
+# Gamlang documentation - puts()
 
-<body>
-<p><i>puts(str)</i></p>
+puts(str)
 
-<p>
-Parameters:<br>
-1: String
-</p>
+| Parameter | Description |
+| --------|--------|
+| 1 | String |
 
-<p>
-Description:<br>
+## Description
+
 Prints out parameter 1 as a string.
-</p>
 
-<p>
-Code:<br>
-<pre>
+## Code (see description)
+
+```
 mov ah, 0x0F
 mov bx, <dataaddr>
 mov cx, <strlen>
@@ -29,11 +22,4 @@ stosw
 inc bx
 dec cx
 jnz short lewp
-</pre>
-</p>
-
-<p>
-<a href="index.md">back</a><br>
-</p>
-</body>
-</html>
+```

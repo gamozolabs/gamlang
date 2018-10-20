@@ -1,36 +1,31 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Gamlang documentation</title>
-</head>
+# Gamlang Documentation
 
-<body>
-<p>Welcome to the gamlang documentation!</p>
+Welcome to the gamlang documentation!
 
-<p>I/O Functions:<br>
-<a href="initscr.html">initscr()</a><br>
-<a href="puts.html">puts(str)</a><br>
-<a href="puthex.html">puthex(int)</a><br>
-</p>
+## I/O Functions:
+[initscr()](initscr.md)
 
-<p>Variable Functions:<br>
-<a href="storestr.html">storestr(var, str)</a><br>
-<a href="storeint.html">storeint(var, int)</a><br>
-</p>
+[puts(str)](puts.md)
 
-<p>Mathematicial Expressions:<br>
-<a href="addint.html">addint(var, int)</a><br>
-<a href="subint.html">subint(var, int)</a><br>
-<a href="mulint.html">mulint(var, int)</a><br>
-</p>
+[puthex(int)](puthex.md)
 
-<p>Conditional Statments:<br>
-<a href="ifequ.html">ifequ(var, int, jmp)</a><br>
-<a href="ifnequ.html">ifnequ(var, int, jmp)</a><br>
-</p>
+## Variable Functions:
+[storestr(var, str)](storestr.md)
 
-<p>Misc. Functions:<br>
-<a href="jump.html">jump(jmp)</a><br>
-</p>
-</body>
-</html>
+[storeint(var, int)](storeint.md)
+
+## Mathematicial Expressions:
+[addint(var, int)](addint.md)
+
+[subint(var, int)](subint.md)
+
+[mulint(var, int)](mulint.md)
+
+## Conditional Statments:
+[ifequ(var, int, jmp)](ifequ.md)
+
+[ifnequ(var, int, jmp)](ifnequ.md)
+
+## Misc. Functions:
+[jump(jmp)](jump.md)
+

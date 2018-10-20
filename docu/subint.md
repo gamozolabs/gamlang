@@ -1,32 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-<title>Gamlang documentation - subint()</title>
-</head>
+# Gamlang documentation - subint()
 
-<body>
-<p><i>subint(var, int)</i></p>
+subint(var, int)
 
-<p>
-Parameters:<br>
-1: Integer variable<br>
-2: Integer
-</p>
+| Parameter | Description |
+| --------|--------|
+| 1 | Integer variable |
+| 2 | Integer |
 
-<p>
-Description:<br>
+## Description
+
 Subtracts parameter 2 from parameter 1, and stores it in parameter 1.
-</p>
 
-<p>
-Code (see description):<br>
-<pre>
+## Code (see description)
+
+```
 sub word [var], amount
-</pre>
-</p>
-
-<p>
-<a href="index.md">back</a><br>
-</p>
-</body>
-</html>
+```
